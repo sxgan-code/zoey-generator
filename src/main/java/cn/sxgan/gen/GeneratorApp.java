@@ -9,7 +9,12 @@ import lombok.extern.slf4j.Slf4j;
 
 import java.sql.Types;
 import java.util.Collections;
-
+/**
+* @Description: 主启动类
+* @Author: sxgan
+* @Date: 2024/3/5 12:58
+* @Version: 1.0
+**/
 @Slf4j
 public class GeneratorApp {
     public static void main(String[] args) {
